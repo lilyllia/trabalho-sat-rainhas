@@ -1,0 +1,7 @@
+N,Variaveis,Clausulas,Resultado,Tempo_CPU_segundos
+4,16,80,SAT,0.01
+6,36,296,SAT,0.05
+8,64,736,SAT,0.03
+10,100,1480,SAT,0.06
+12,144,2608,SAT,0.14
+14,196,4200,SAT,0.14
